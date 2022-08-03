@@ -14,7 +14,7 @@
             <Font name="System Bold" size="24.0" />
          </font>
       </Label>
-      <TextArea fx:id="textline" layoutX="14.0" layoutY="60.0" prefHeight="200.0" prefWidth="419.0" />
+      <TextArea fx:id="textline" editable="false" layoutX="14.0" layoutY="60.0" prefHeight="200.0" prefWidth="419.0" />
       <TextField fx:id="textmasage" layoutX="17.0" layoutY="269.0" prefHeight="25.0" prefWidth="331.0" />
       <Button layoutX="381.0" layoutY="269.0" mnemonicParsing="false" onAction="#btnsendonaction" text="send" />
    </children>
