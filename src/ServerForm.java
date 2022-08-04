@@ -14,7 +14,7 @@ public class ServerForm {
     public TextArea textLine;
     public TextField txtMasage;
 
-    final int PORT = 5000;
+    final int PORT = 5001;
 
     ServerSocket serverSocket;
     Socket accept;
