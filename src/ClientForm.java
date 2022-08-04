@@ -14,7 +14,7 @@ public class ClientForm {
     public TextField textmasage;
     public Label txtclient;
 
-    final int PORT = 5000;
+    final int PORT = 5001;
 
     Socket socket;
     DataInputStream dataInputStream;
